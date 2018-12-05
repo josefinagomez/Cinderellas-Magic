@@ -1,0 +1,9 @@
+$("#Dress").click(function(){
+    $("#Dress-image").slideToggle();
+});
+$("#Carriage").click(function(){
+    $("#Carriage-image").fadeToggle();
+});
+$("#Horses").click(function(){
+    $("#Horse-image").toggle();
+});    
